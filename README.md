@@ -32,14 +32,6 @@ the following:
 
 #### Processed affect traces
 The `Processed affect traces` directory contains two data files (one for each affect label), containing all the aquired continuous traces from all participants 
-of this study. All processed data have been through a MinMax [0,1] Normalization and Sampled at 250ms intervals. The columns include: Timestamps, Affect 
+of this study. All processed data have been through a MinMax [0,1] normalization and sampled at 250ms intervals. The columns include: Timestamps, Affect 
 annotation value, Run id, Video id, Room id and Participant id. 
 
-OSF Storage: 
-
-### Wiki Images
-The `Wiki_images` folder includes all images used for the repository's wiki pages.
-
-### Affroooms_12_videofiles 
-The 'Affroooms_12_videofiles' directory contains all 54 pre-recorded videos within the Unreal Engine, depicting all the walkthroughts that were used as stimuli
-as part of the affect annotation task. 
