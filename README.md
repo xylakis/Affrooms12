@@ -1,4 +1,4 @@
-# Affrooms12
+# Affrooms12: Affect in Spatial Navigation, a study of Rooms
 
 === Affect in Spatial Navigation: A study of Rooms. ===
 
