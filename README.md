@@ -1,7 +1,7 @@
 # Affrooms12: Affect in Spatial Navigation, a study of Rooms
 
 The repository contains all the necessary files to run the Leave-One-Out Cross-Validation Random Forest classifier for this project. Make sure that
-all the necessary packages are installed according to the requirements.txt file.
+all the necessary packages are installed according to the 'requirements.txt' file.
 
 === Affect in Spatial Navigation: A study of Rooms. ===
 
