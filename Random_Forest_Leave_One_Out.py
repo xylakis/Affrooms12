@@ -33,8 +33,8 @@ for f in range (0,len(affects)):
     
     affect = affects[f]
     
-    path = "data/"+affect+"/Train_Test/"
-    val_path = "data/"+affect+"/Validation/"
+    path = "Ordinal_labels/"+affect+"/Train_Test/"
+    val_path = "Ordinal_labels/"+affect+"/Validation/"
     
     participants_for_clasification = os.listdir(path)
     
