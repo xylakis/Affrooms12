@@ -35,3 +35,7 @@ The `Processed affect traces` directory contains two data files (one for each af
 of this study. All processed data have been through a MinMax [0,1] normalization and sampled at 250ms intervals. The columns include: Timestamps, Affect 
 annotation value, Run id, Video id, Room id and Participant id. 
 
+### Raw 
+
+The `Raw` folder contains all the raw arousal and pleasure traces that were gathered throughout the study. Additionally the folder contains `Runs parameters` sub-folder, 
+with all 55 runs parameters (room change timestamp, room_features, etc.). 
